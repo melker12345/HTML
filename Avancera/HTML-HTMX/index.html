@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="sv">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HTMX</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <main>
+        <header>
+            <h1>
+                <a href="https://htmx.org/" class="logo">&lt;<b id="logo">/</b>&gt; htm<b>x</b></a>            
+            </h1>
+        </header>
+
+        <article>
+            <h2>Utvecklingen av Webbutveckling och Förenklad Tillståndshantering med HTMX</h2>
+            <p>HTML (hypertext markup language) utgör grunden för webbsidors struktur. I början av webbutvecklingen,
+                särskilt under slutet av 1990-talet och tidigt 2000-tal, var det enkelt strukturerat med en backend
+                och en frontend.</p>
+            <p>Backend, även känd som servern, hanterade data och logik som användarna inte direkt såg. Frontend,
+                eller klienten, var gränssnittet som användarna interagerade med. Servern ägde hemsidans tillstånd,
+                och all information hämtades och uppdaterades direkt från den.</p>
+            <p>Med tiden blev webbapplikationer mer komplexa och beroende av användarinteraktion. Det ledde till
+                introduktionen av JSON, som förenklade datahanteringen genom att skapa ett mellantillstånd
+                (JSON-format) från serverns tillstånd. Detta minskade behovet av kontinuerliga förfrågningar till
+                servern.</p>
+            <p>Men detta krävde validering av tillstånd både på servern och klienten, vilket komplicerade
+                utvecklingen.</p>
+            <p>Med framväxten av moderna JavaScript-ramverk som Vue.js och React har state (tillstånd) hanteringen
+                blivit ännu mer komplex. Dessa ramverk introducerar avancerade koncept som komponentbaserad
+                arkitektur och reaktivitet, vilket kräver en djupare förståelse av tillståndshantering.</p>
+            <p>Även om dessa ramverk erbjuder kraftfulla verktyg för att skapa dynamiska användargränssnitt, kan de
+                också medföra en inlärningskurva och ökad komplexitet i kodstrukturen.</p>
+            <p>Med nya verktyg som HTMX förenklas nu state (tillstånd) hanteringen. HTMX erbjuder en enkel
+                HTML-baserad metod för att hantera interaktivitet och dynamik utan omfattande JavaScript. Genom
+                HTMX-attribut som hx-get, hx-post och hx-trigger kan utvecklare enkelt hantera tillstånd och
+                dataöverföring.</p>
+            <p>HTMX ger utvecklare ett kraftfullt verktyg för att skapa dynamiska webbsidor utan den komplexitet som
+                traditionell JavaScript-utveckling och moderna ramverk kan innebära, vilket gör webbutvecklingen mer
+                tillgänglig och effektiv.</p>
+            <p>Dessutom finns det flera intermediära steg som hjälper till att organisera dataflödet och tillstånden
+                i modern webbutveckling. Dessa inkluderar serverstaten, JSON-representationen, klientens lokala
+                tillstånd, visuella komponenttillstånd och applikationstillstånd. Genom att förstå och effektivt
+                hantera dessa intermediära tillstånd kan utvecklare skapa responsiva och robusta webbapplikationer.
+            </p>
+
+        </article>
+
+        <aside>
+            <iframe width="640" height="360" src="https://www.youtube.com/embed/r-GSGH2RxJs" title="htmx in 100 seconds"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                allowfullscreen></iframe>
+        </aside>
+
+    </main>
+    <footer>
+        <a href="https://htmx.org/" class="logo light" id="fot-logo">&lt;<b id="fot-logo">/</b>&gt; htm<b id="fot-logo">x</b></a>
+
+    </footer>
+</body>
+
+</html>

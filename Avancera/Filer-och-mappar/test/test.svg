@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="36pt"
+   height="36pt"
+   viewBox="0 0 12.7 12.7"
+   version="1.1"
+   id="svg919"
+   inkscape:version="1.1 (c4e8f9ed74, 2021-05-24)"
+   sodipodi:docname="test.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview921"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="cm"
+     showgrid="false"
+     units="pt"
+     inkscape:zoom="4.1978414"
+     inkscape:cx="-9.409598"
+     inkscape:cy="36.447304"
+     inkscape:window-width="1920"
+     inkscape:window-height="1011"
+     inkscape:window-x="0"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs916" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       inkscape:export-ydpi="607.89001"
+       inkscape:export-xdpi="607.89001"
+       transform="matrix(0.155424,0.01241296,-0.0124128,0.15542604,1.1607834,-149.07932)"
+       inkscape:transform-center-y="4.4236544"
+       inkscape:transform-center-x="2.3920845"
+       inkscape:randomized="0"
+       inkscape:rounded="0"
+       inkscape:flatsided="false"
+       sodipodi:arg2="2.3561945"
+       sodipodi:arg1="1.3089969"
+       sodipodi:r2="23.908678"
+       sodipodi:r1="47.81736"
+       sodipodi:cy="982.7074"
+       sodipodi:cx="116.21419"
+       sodipodi:sides="3"
+       id="path4192"
+       style="fill:#56a3f2;fill-opacity:1;stroke:none"
+       sodipodi:type="star"
+       inkscape:export-filename="/home/jonkri/Avancera/test.png"
+       d="m 128.59023,1028.8954 -29.282031,-29.28201 -29.282035,-29.28203 40.000006,-10.71797 40,-10.71797 -10.71797,40 z" />
+  </g>
+</svg>
